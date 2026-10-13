@@ -28,6 +28,8 @@
 
 ## 🌟 Overview
 
+<img width="1895" height="1065" alt="image" src="https://github.com/user-attachments/assets/bec81e24-069c-4bfe-b26b-3a8f9b891a9b" />
+
 **[AutoMuse](https://automuse.site/)** is an all-in-one web-based studio built to automate and supercharge generative AI workflows. Instead of manually entering prompts one by one, AutoMuse empowers creators, marketers, video editors, and digital artists to generate dozens or hundreds of high-definition AI videos and images in parallel.
 
 Running entirely in your browser with zero software installation, AutoMuse connects directly with Muse AI to deliver an industrial-grade batch generation pipeline with real-time tracking and fast streaming exports.
